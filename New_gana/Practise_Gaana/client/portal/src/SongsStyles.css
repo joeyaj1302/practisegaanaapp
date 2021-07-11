@@ -1,0 +1,40 @@
+.title{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.songGenre{
+    position: relative;
+    left:125px;
+}
+
+.singlesongtile{
+    margin-left: 10px;
+    padding: left 20px;
+    margin-right: 10px;
+    padding-right: 20px;
+    float: left;
+    /* float: right; */
+    border-radius: 10px;
+
+}
+
+.SongRow{
+    float:left;
+}
+
+.container{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+    height: 300px;
+    overflow-x: auto; 
+    white-space: nowrap;
+}
+
+  
+.thumbnailList{
+    height:50px;
+    width: 50px;
+    border-radius: 5px;
+}

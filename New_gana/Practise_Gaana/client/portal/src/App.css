@@ -1,0 +1,23 @@
+.page-title{
+  margin-top: 40px;
+  text-align:center;
+}
+
+.button-position{
+  position: relative;
+  left:725px;
+  margin-bottom: 40px;
+}
+
+.zoom {
+  padding: 5px;
+  border-radius: 20px;
+  transition: transform .3s; /* Animation */
+  height: auto;
+  width: auto;
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  transform: scale(1.125); /* (150% zoom)*/
+}

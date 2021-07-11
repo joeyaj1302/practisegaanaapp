@@ -1,0 +1,13 @@
+.title {
+  font-weight: bold;
+}
+
+.image {
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+}
+
+.item-title {
+  font-size: 85%;
+}
